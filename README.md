@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal Eisa</h1>
 <h3 align="center">A passionate Mobile App developer from Egypt</h3>
 
-- 🔭 I’m currently working on Elgameya **Elgameya**
+- 🔭 I’m currently working on  **Elgameya**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-g-eisa**
 
