@@ -4,11 +4,17 @@
 - 🔭 I’m currently working on  **Homzmart**
 
 - 📫 How to reach me
-<a href="https://www.linkedin.com/in/mohamed-g-eisa">Linkedin</a>
+<a 
+ target="_blank" 
+   rel="noopener noreferrer"
+ href="https://www.linkedin.com/in/mohamed-g-eisa">Linkedin</a>
  
 
 - 📄 Know about my experiences 
-<a href="https://drive.google.com/file/d/1vM85wkYHfh5ORijvz7x3r0P5bg9zx6Ir/view?usp=sharing">My CV </a>
+<a 
+ target="_blank" 
+   rel="noopener noreferrer"
+ href="https://drive.google.com/file/d/1vM85wkYHfh5ORijvz7x3r0P5bg9zx6Ir/view?usp=sharing">My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
